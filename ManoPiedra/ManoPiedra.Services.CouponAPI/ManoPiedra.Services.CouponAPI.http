@@ -1,0 +1,6 @@
+@ManoPiedra.Services.CouponAPI_HostAddress = http://localhost:5279
+
+GET {{ManoPiedra.Services.CouponAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

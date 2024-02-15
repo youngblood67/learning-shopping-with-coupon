@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\2024_LEARNING\\learning-shopping-with-coupon\\ManoPiedra\\ManoPiedra.Services.CouponAPI\\ManoPiedra.Services.CouponAPI.csproj": {}
+  },
+  "projects": {
+    "E:\\2024_LEARNING\\learning-shopping-with-coupon\\ManoPiedra\\ManoPiedra.Services.CouponAPI\\ManoPiedra.Services.CouponAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\2024_LEARNING\\learning-shopping-with-coupon\\ManoPiedra\\ManoPiedra.Services.CouponAPI\\ManoPiedra.Services.CouponAPI.csproj",
+        "projectName": "ManoPiedra.Services.CouponAPI",
+        "projectPath": "E:\\2024_LEARNING\\learning-shopping-with-coupon\\ManoPiedra\\ManoPiedra.Services.CouponAPI\\ManoPiedra.Services.CouponAPI.csproj",
+        "packagesPath": "C:\\Users\\Phil\\.nuget\\packages\\",
+        "outputPath": "E:\\2024_LEARNING\\learning-shopping-with-coupon\\ManoPiedra\\ManoPiedra.Services.CouponAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Phil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
