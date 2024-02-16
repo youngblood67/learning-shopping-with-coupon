@@ -1,6 +1,13 @@
-﻿namespace ManoPiedra.Services.CouponAPI.Data
+﻿using ManoPiedra.Services.CouponAPI.Models;
+using Microsoft.EntityFrameworkCore;
+
+namespace ManoPiedra.Services.CouponAPI.Data
 {
-    public class AppDbContext
+    public class AppDbContext : DbContext
     {
+        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
+        {
+        }
+        public DbSet<Coupon> Coupons { get; set; }
     }
 }
