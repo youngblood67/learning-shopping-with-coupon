@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ManoPiedra.Services.CouponAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+804268f97c6b66ecf5814e546bd1e612aba439d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccf3bf4227b4f6ad9f1446540cfbe0aa90ebbf07")]
 [assembly: System.Reflection.AssemblyProductAttribute("ManoPiedra.Services.CouponAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ManoPiedra.Services.CouponAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
